@@ -14,18 +14,37 @@ Personal notes and code while learning Python, mainly from [CS50’s Introductio
 From the repository root:
 
 ```bash
+# Lecture examples (week 0)
 python3 cs50p/week0/Hello.py
 python3 cs50p/week0/calculator.py
+
+# Problem Set 0 (one folder per exercise)
+python3 cs50p/week0/indoor/indoor.py
+python3 cs50p/week0/tip/tip.py
 ```
 
 Use `python3` (or `python` on your system) with the path to any `.py` file you want to run.
 
 ## CS50P — week 0
 
+### Lecture
+
 | File | Topics |
 |------|--------|
 | `Hello.py` | `input`, functions, default parameters |
 | `calculator.py` | `int`, functions, return values |
+
+### Problem Set 0
+
+Each exercise lives in its own folder under `cs50p/week0/`.
+
+| Folder | Topics |
+|--------|--------|
+| `indoor/` | strings, `.lower()` |
+| `playback/` | strings, `.replace()` |
+| `faces/` | string replacement, functions |
+| `einstein/` | `int`, f-strings, arithmetic |
+| `tip/` | `float`, parsing input, formatted output |
 
 Week folders under `cs50p/` mirror the course (`week0/`, `week1/`, …). Add scripts here as you work through each week.
 
