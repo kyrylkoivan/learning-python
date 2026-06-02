@@ -15,17 +15,23 @@ From the repository root:
 
 ```bash
 python3 cs50p/week0/Hello.py
+python3 cs50p/week0/calculator.py
 ```
 
 Use `python3` (or `python` on your system) with the path to any `.py` file you want to run.
 
-## CS50P structure
+## CS50P — week 0
 
-Week folders under `cs50p/` mirror the course (e.g. `week0/`, `week1/`, …). Each week may contain lecture examples, problem-set solutions, and related files as the course progresses.
+| File | Topics |
+|------|--------|
+| `Hello.py` | `input`, functions, default parameters |
+| `calculator.py` | `int`, functions, return values |
+
+Week folders under `cs50p/` mirror the course (`week0/`, `week1/`, …). Add scripts here as you work through each week.
 
 ## Requirements
 
-- Python 3 (no extra dependencies for the scripts added so far)
+- Python 3 (no extra dependencies yet)
 - A terminal and text editor or IDE of your choice
 
 ## License
