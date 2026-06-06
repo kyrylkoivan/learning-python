@@ -18,6 +18,7 @@ python3 cs50p/week0/Hello.py
 python3 cs50p/week0/tip/tip.py
 python3 cs50p/week1/compare.py
 python3 cs50p/week1/grade.py
+python3 cs50p/week1/parity.py
 ```
 
 Use `python3` (or `python` on your system) with the path to any `.py` file you want to run.
@@ -53,6 +54,8 @@ Week folders under `cs50p/` mirror the course (`week0/`, `week1/`, …).
 |------|--------|
 | `compare.py` | `if` / `else`, equality |
 | `grade.py` | `elif` chains, score ranges |
+| `parity.py` | modulo, functions, even/odd |
+| `house.py` | `match` / `case`, pattern matching |
 
 ## Requirements
 
