@@ -21,6 +21,7 @@ python3 cs50p/week1/grade.py
 python3 cs50p/week1/parity.py
 python3 cs50p/week1/deep_thought/deep.py
 python3 cs50p/week1/bank/bank.py
+python3 cs50p/week1/extensions/extensions.py
 ```
 
 Use `python3` (or `python` on your system) with the path to any `.py` file you want to run.
@@ -65,6 +66,7 @@ Week folders under `cs50p/` mirror the course (`week0/`, `week1/`, …).
 |--------|--------|
 | `deep_thought/` | conditionals, string normalization, `in` |
 | `bank/` | `.startswith()`, `elif` chains |
+| `extensions/` | `.endswith()`, MIME types |
 
 ## Requirements
 
