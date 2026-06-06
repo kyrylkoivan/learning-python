@@ -23,6 +23,7 @@ python3 cs50p/week1/deep_thought/deep.py
 python3 cs50p/week1/bank/bank.py
 python3 cs50p/week1/extensions/extensions.py
 python3 cs50p/week1/interpreter/interpreter.py
+python3 cs50p/week1/meal/meal.py
 ```
 
 Use `python3` (or `python` on your system) with the path to any `.py` file you want to run.
@@ -69,6 +70,7 @@ Week folders under `cs50p/` mirror the course (`week0/`, `week1/`, …).
 | `bank/` | `.startswith()`, `elif` chains |
 | `extensions/` | `.endswith()`, MIME types |
 | `interpreter/` | `.split()`, arithmetic, `float` |
+| `meal/` | time parsing, ranges, functions |
 
 ## Requirements
 
